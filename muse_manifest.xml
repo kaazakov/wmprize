@@ -1,0 +1,32 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="prizes.wmaccessories.ru" resolutions="1x" timestamp="1508364164868">
+  <folder name="css">
+    <file name="site_global.css" crc="3787030868"/>
+    <file name="index.css" crc="3794623911" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="futurafuturisbold.woff" crc="238019985"/>
+    <file name="futurafuturisbold.eot" crc="234458135"/>
+    <file name="futurafuturisbold.svg" crc="401509947"/>
+    <file name="futurafuturislight.woff" crc="4037831048"/>
+    <file name="futurafuturislight.eot" crc="227235770"/>
+    <file name="futurafuturislight.svg" crc="3895353273"/>
+    <file name="futurafuturismedium.woff" crc="3887423742"/>
+    <file name="futurafuturismedium.eot" crc="431881642"/>
+    <file name="futurafuturismedium.svg" crc="4213959665"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="172512987" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u114.png" crc="185829873" ref="index"/>
+    <file name="u114-r.png" crc="3997837944" ref="index"/>
+    <file name="вставленное изображение 512x410.png" crc="64467141" seo="true" ref="index"/>
+    <file name="landing_bg.jpg" crc="4031876869" ref="index"/>
+  </folder>
+  <file name="index.html" crc="203283398" seo="true" mt="1508362173359" redirect="true"/>
+</manifest>
