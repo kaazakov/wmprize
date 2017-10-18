@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="prizes.wmaccessories.ru" resolutions="1x" timestamp="1508364164868">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="prizes.wmaccessories.ru" resolutions="1x" timestamp="1508366287212">
   <folder name="css">
     <file name="site_global.css" crc="3787030868"/>
-    <file name="index.css" crc="3794623911" ref="index"/>
+    <file name="index.css" crc="3801356042" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="futurafuturisbold.woff" crc="238019985"/>
@@ -28,5 +28,5 @@
     <file name="вставленное изображение 512x410.png" crc="64467141" seo="true" ref="index"/>
     <file name="landing_bg.jpg" crc="4031876869" ref="index"/>
   </folder>
-  <file name="index.html" crc="203283398" seo="true" mt="1508362173359" redirect="true"/>
+  <file name="index.html" crc="3841246420" seo="true" mt="1508366274047" redirect="true"/>
 </manifest>
